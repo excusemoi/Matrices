@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/1.1.cpp
+ParseLatexFunc.h
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/ParseLatexFunc.h
+
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/ParseLatexFunc.h
+iostream
+-
+fstream
+-
+math.h
+-
+SqMatrix.h
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/SqMatrix.h
+vector
+-
+stack
+-
+
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/SqMatrix.h
+TeX_convertible.h
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/TeX_convertible.h
+random
+-
+
+/home/pepachka/Downloads/FA4semUnzhakov-main/1.1/TeX_convertible.h
+iostream
+-
+sstream
+-
+fstream
+-
+math.h
+-
+limits
+-
+

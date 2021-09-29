@@ -1,0 +1,4 @@
+/hdd/JetBrains/apps/CLion/ch-0/212.5284.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/pepachka/Downloads/FA4semUnzhakov-main/1.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pepachka/Downloads/FA4semUnzhakov-main/1.1/cmake-build-debug
